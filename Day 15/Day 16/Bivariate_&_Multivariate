@@ -1,0 +1,57 @@
+# Day 16 - Bivariate and Multivariate Analysis
+
+## What is Bivariate Analysis?
+
+Bivariate Analysis is the process of analyzing **two variables** together.
+
+It helps us understand the relationship between two features.
+
+### Common Charts
+
+* Scatter Plot
+* Line Chart
+* Bar Chart
+* Box Plot
+
+## What is Multivariate Analysis?
+
+Multivariate Analysis is the process of analyzing **three or more variables** together.
+
+It helps us understand how multiple features are related.
+
+### Common Charts
+
+* Heatmap
+* Pair Plot
+* Bubble Chart
+
+## Difference
+
+| Bivariate Analysis                      | Multivariate Analysis                      |
+| --------------------------------------- | ------------------------------------------ |
+| Uses two variables                      | Uses three or more variables               |
+| Finds relationship between two features | Finds relationship among multiple features |
+| Simple analysis                         | More detailed analysis                     |
+
+## Applications
+
+* Feature Analysis
+* Data Exploration
+* Finding Relationships
+* Machine Learning
+
+## Workflow
+
+Load Data → Select Features → Analyze Relationships → Visualize Data → Draw Insights
+
+## Important Points
+
+* Bivariate Analysis uses two variables.
+* Multivariate Analysis uses three or more variables.
+* Both are part of Exploratory Data Analysis (EDA).
+* They help understand relationships between features.
+* They improve decision-making before model building.
+
+## One-Line Summary
+
+Bivariate Analysis studies the relationship between two variables, while Multivariate Analysis studies the relationship among three or more variables.
